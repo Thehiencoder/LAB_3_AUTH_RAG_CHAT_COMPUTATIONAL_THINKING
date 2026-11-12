@@ -1,0 +1,130 @@
+[
+  {
+    "id": "G01",
+    "title": "Independence Palace (Dinh Doc Lap)",
+    "category": "museum",
+    "tags": ["history", "architecture", "indoor", "central", "landmark"],
+    "text": "Independence Palace is located at 135 Nam Ky Khoi Nghia Street, District 1. The ticket counter is open daily from 08:00 to 15:30, and the palace grounds close at 16:30. Entrance tickets cost 40,000 VND for adults and 20,000 VND for students with a valid student ID card. A combined ticket that includes the special Exhibition Building costs 65,000 VND for adults.",
+    "source": "Lumen Travel Ho Chi Minh City Guide 2026"
+  },
+  {
+    "id": "G02",
+    "title": "War Remnants Museum",
+    "category": "museum",
+    "tags": ["history", "indoor", "exhibition", "culture", "central"],
+    "text": "The War Remnants Museum is at 28 Vo Van Tan Street, District 3. It is open every day from 07:30 to 17:30 with no lunch break, and the last ticket is sold at 17:00. Admission is 40,000 VND per person. Children under 6 years old and people with severe disabilities enter for free. Audio guides are available for rent at the entrance for 80,000 VND.",
+    "source": "Lumen Travel Ho Chi Minh City Guide 2026"
+  },
+  {
+    "id": "G03",
+    "title": "Ben Thanh Market Daytime & Night Hours",
+    "category": "market",
+    "tags": ["shopping", "street food", "souvenirs", "local", "central", "night"],
+    "text": "Ben Thanh Market in District 1 operates in two shifts. The indoor daytime market is open from 06:00 to 18:00 daily, selling fabrics, handicrafts, coffee, and dry snacks. After 18:00, the outdoor Ben Thanh Night Market opens along Phan Boi Chau and Phan Chu Trinh streets beside the main building from 18:00 to 23:00, focusing on grilled seafood, street food, and souvenirs.",
+    "source": "Lumen Travel Ho Chi Minh City Guide 2026"
+  },
+  {
+    "id": "G04",
+    "title": "Saigon Central Post Office",
+    "category": "landmark",
+    "tags": ["architecture", "history", "photography", "free", "central", "souvenirs"],
+    "text": "Saigon Central Post Office at 2 Cong Xa Paris Square, District 1, is a working post office and historic landmark. Entrance is completely free of charge. It is open Monday to Saturday from 07:30 to 18:00, and on Sundays from 08:00 to 17:00. Visitors can buy postcards, vintage stamps, and mail letters internationally from the main hall.",
+    "source": "Lumen Travel Ho Chi Minh City Guide 2026"
+  },
+  {
+    "id": "G05",
+    "title": "Notre-Dame Cathedral Basilica of Saigon",
+    "category": "landmark",
+    "tags": ["architecture", "history", "photography", "outdoor", "free", "central"],
+    "text": "Notre-Dame Cathedral sits directly across from the Central Post Office at 1 Cong Xa Paris Square. Due to ongoing interior restoration, the inside of the cathedral is currently closed to tourists. However, visitors can walk around the exterior square for free at any time to admire the red-brick facade and the Virgin Mary statue.",
+    "source": "Lumen Travel Ho Chi Minh City Guide 2026"
+  },
+  {
+    "id": "G06",
+    "title": "Nguyen Van Binh Book Street",
+    "category": "park",
+    "tags": ["books", "coffee", "quiet", "walking", "free", "central"],
+    "text": "Nguyen Van Binh Book Street is a pedestrian-only tree-lined lane right next to the Saigon Central Post Office in District 1. Admission to the street is free, and bookshops and shaded outdoor cafes operate daily from 08:00 to 21:00. Motorbikes and cars are prohibited inside the lane, making it a quiet spot for reading and drinking iced coffee.",
+    "source": "Lumen Travel Ho Chi Minh City Guide 2026"
+  },
+  {
+    "id": "G07",
+    "title": "Saigon Skydeck at Bitexco Financial Tower",
+    "category": "landmark",
+    "tags": ["viewpoint", "sunset", "cityscape", "indoor", "photography"],
+    "text": "The Saigon Skydeck observation deck is located on the 49th floor of the Bitexco Financial Tower at 36 Ho Tung Mau Street, District 1. It is open daily from 09:30 to 21:30 (last ticket entry at 20:45). Standard admission costs 240,000 VND for adults and 160,000 VND for children aged 4 to 12 or seniors over 65. The ticket includes access to the Ao Dai Museum exhibition on the same floor.",
+    "source": "Lumen Travel Ho Chi Minh City Guide 2026"
+  },
+  {
+    "id": "G08",
+    "title": "Saigon Waterbus on the Saigon River",
+    "category": "transport",
+    "tags": ["river", "sightseeing", "sunset", "budget", "outdoor"],
+    "text": "The Saigon Waterbus departs from Bach Dang Pier in District 1 and travels along the Saigon River toward Binh An, Thanh Da, and Linh Dong. A one-way ticket costs 15,000 VND per person regardless of distance. Boats operate between 07:00 and 21:00. Because sunset trips between 16:30 and 18:30 sell out quickly, Lumen Travel recommends booking tickets at least 2 hours in advance at the Bach Dang ticket booth.",
+    "source": "Lumen Travel Ho Chi Minh City Guide 2026"
+  },
+  {
+    "id": "G09",
+    "title": "Ho Thi Ky Flower and Street Food Market",
+    "category": "market",
+    "tags": ["street food", "flowers", "night", "local", "budget"],
+    "text": "Ho Thi Ky Market in District 10 is famous for both wholesale fresh flowers and a bustling evening food alley. The flower section stays open 24 hours a day, with the busiest wholesale hours from midnight to 05:00. The street food stalls operate daily from 15:00 to 22:30, where most dishes such as grilled beef skewers, Cambodian sweet soup, and rice paper snacks cost between 20,000 VND and 60,000 VND.",
+    "source": "Lumen Travel Ho Chi Minh City Guide 2026"
+  },
+  {
+    "id": "G10",
+    "title": "42 Nguyen Hue Cafe Apartment",
+    "category": "cafe",
+    "tags": ["coffee", "tea", "viewpoint", "shopping", "night", "central"],
+    "text": "The Cafe Apartment at 42 Nguyen Hue Walking Street, District 1, is a nine-story vintage apartment block converted into independent specialty cafes, tea rooms, and local fashion boutiques. Most shops open from 08:30 to 22:00 daily. Taking the stairs is free, while using the small elevator costs 3,000 VND per ride (some cafes refund the 3,000 VND elevator fee when you order a drink).",
+    "source": "Lumen Travel Ho Chi Minh City Guide 2026"
+  },
+  {
+    "id": "G11",
+    "title": "Fine Arts Museum of Ho Chi Minh City",
+    "category": "museum",
+    "tags": ["art", "architecture", "photography", "indoor", "culture"],
+    "text": "The Ho Chi Minh City Museum of Fine Arts is housed in a yellow colonial-era mansion at 97A Pho Duc Chinh Street, District 1. It is open every day from 08:00 to 17:00. Entrance tickets cost 30,000 VND for adults and 15,000 VND for students with ID. Note that commercial wedding or fashion shoots with professional lighting equipment require a separate photography permit at the gate.",
+    "source": "Lumen Travel Ho Chi Minh City Guide 2026"
+  },
+  {
+    "id": "G12",
+    "title": "Binh Tay Market in Cholon (Chinatown)",
+    "category": "market",
+    "tags": ["history", "shopping", "local", "architecture", "street food"],
+    "text": "Binh Tay Market is the main wholesale market in Cholon (District 6), located at 57A Thap Muoi Street. Built in the 1920s with a central courtyard clock tower, the market is open daily from 06:00 to 19:00. Unlike Ben Thanh Market, Binh Tay caters primarily to local wholesalers selling dried seafood, spices, candied fruits, and household goods, with a traditional noodle food court at the rear.",
+    "source": "Lumen Travel Ho Chi Minh City Guide 2026"
+  },
+  {
+    "id": "G13",
+    "title": "Thien Hau Pagoda (Ba Thien Hau Temple)",
+    "category": "landmark",
+    "tags": ["culture", "history", "spiritual", "free", "architecture"],
+    "text": "Thien Hau Pagoda is located at 710 Nguyen Trai Street, District 5, in the heart of Cholon. Built in 1760 and dedicated to the Chinese sea goddess Mazu, it is famous for the giant spiral incense coils hanging from the ceiling. Entrance is free, and the pagoda is open daily from 06:00 to 17:30. Visitors must wear respectful clothing that covers shoulders and knees.",
+    "source": "Lumen Travel Ho Chi Minh City Guide 2026"
+  },
+  {
+    "id": "G14",
+    "title": "Saigon Zoo and Botanical Gardens (Thao Cam Vien)",
+    "category": "park",
+    "tags": ["nature", "family", "outdoor", "walking", "history"],
+    "text": "Founded in 1864, Saigon Zoo and Botanical Gardens is at 2 Nguyen Binh Khiem Street, District 1. It is open daily from 07:00 to 18:30 (also open from 05:00 to 07:00 for morning exercise passes). Regular admission is 60,000 VND for visitors taller than 1.3 meters, 40,000 VND for children between 1.0 meter and 1.3 meters tall, and free for children under 1.0 meter tall.",
+    "source": "Lumen Travel Ho Chi Minh City Guide 2026"
+  },
+  {
+    "id": "G15",
+    "title": "Metro Line 1 (Ben Thanh – Suoi Tien)",
+    "category": "transport",
+    "tags": ["metro", "transport", "budget", "modern", "central"],
+    "text": "Ho Chi Minh City Metro Line 1 connects Ben Thanh Station in District 1 to Suoi Tien Terminal in Thu Duc City across 14 stations. Trains run daily from 05:00 to 22:00 with a frequency of every 8 to 12 minutes. Single-journey cashless tickets cost between 6,000 VND and 19,000 VND depending on distance, while an unlimited 1-day tourist pass costs 40,000 VND.",
+    "source": "Lumen Travel Ho Chi Minh City Guide 2026"
+  },
+  {
+    "id": "G16",
+    "title": "Banh Mi Huynh Hoa & Specialty Takeaway Sandwiches",
+    "category": "cafe",
+    "tags": ["street food", "local", "night", "central"],
+    "text": "For iconic takeaway Vietnamese baguette sandwiches, Banh Mi Huynh Hoa at 26 Le Thi Rieng Street, District 1, is open daily from 06:00 to 22:00. One loaded sandwich with cold cuts, pate, and butter costs 68,000 VND and is large enough for two people to share. Separate queues exist for walk-in customers and delivery drivers.",
+    "source": "Lumen Travel Ho Chi Minh City Guide 2026"
+  }
+]
