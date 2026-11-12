@@ -1,0 +1,6 @@
+# Python 3.11+ (Python 3.12 recommended)
+streamlit==1.66.0
+requests==2.34.2
+python-dotenv==1.2.2
+numpy>=1.26.0
+
