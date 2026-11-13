@@ -207,26 +207,58 @@ def answer_question(
 
 
 if __name__ == "__main__":
-    print("=== Testing: rag.py ===")
+    print("=== Running 6 Evaluation Test Questions (rag.py) ===")
     try:
         docs = load_knowledge_base()
         print(f"[OK] Loaded {len(docs)} entries from knowledge_base.json")
 
-        print(f"[..] Connecting to Ollama server to embed {len(docs)} entries...")
+        print(f"[..] Embedding {len(docs)} guide entries once with '{EMBED_MODEL}'...")
         indexed_docs, vectors = build_index(docs)
         print(f"[OK] Embedding matrix shape: {vectors.shape}")
 
-        test_questions = [
-            "How much is the student ticket for Independence Palace?",
-            "How much does it cost to park a motorbike overnight at Independence Palace?",
+        test_suite = [
+            (
+                "Q1 (Answerable 1)",
+                "G01",
+                "How much is the student ticket for Independence Palace?",
+            ),
+            (
+                "Q2 (Answerable 2)",
+                "G10",
+                "How much does it cost to take the elevator at 42 Nguyen Hue Cafe Apartment?",
+            ),
+            (
+                "Q3 (Answerable 3)",
+                "G03, G09",
+                "Which markets in the guide sell street food in the evening, and what are their night hours?",
+            ),
+            (
+                "Q4 (Paraphrase)",
+                "G06",
+                "Where can I find a quiet pedestrian lane without motorbikes to read books and drink iced coffee?",
+            ),
+            (
+                "Q5 (Not in Guide 1)",
+                "None (G01 has no parking info)",
+                "How much does it cost to park a motorbike overnight at Independence Palace?",
+            ),
+            (
+                "Q6 (Not in Guide 2)",
+                "None (G16 has no VIP pass/D7 delivery)",
+                "What is the price of a VIP express pass to skip the queue at Banh Mi Huynh Hoa, and do they deliver to District 7?",
+            ),
         ]
-        for q in test_questions:
-            print(f"\nQuestion: {q}")
+
+        for label, expected_id, q in test_suite:
+            print("\n" + "=" * 72)
+            print(f"{label} | Expected ID: {expected_id}")
+            print(f"Question: {q}")
             ans, top_hits = answer_question(q, indexed_docs, vectors, k=3)
-            print("Retrieved Top-3:")
-            for h in top_hits:
-                print(f"  - [{h['id']}] ({h['score']:.4f}) {h['title']}")
-            print(f"Answer: {ans}")
+            retrieved_str = ", ".join(f"{h['id']} ({h['score']:.4f})" for h in top_hits)
+            chk = citation_check(ans, top_hits)
+            print(f"Retrieved Top-3 : {retrieved_str}")
+            print(f"Cited IDs       : {chk['cited_ids']}")
+            print(f"Answer          : {ans}")
     except RAGError as err:
         print(f"\n[RAGError handled cleanly]: {err}")
 
